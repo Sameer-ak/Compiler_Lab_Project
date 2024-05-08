@@ -37,8 +37,8 @@ License:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Authors:
-- Sameer Arif Khan(https://github.com/Sameer-ak)
-- Shahryar Malik0(https://github.com/shahryarmalik)
+- Sameer Arif Khan (https://github.com/Sameer-ak)
+- Shahryar Malik (https://github.com/shahryarmalik)
 
 Acknowledgments:
 - This project was inspired by the need for a simple arithmetic expression parser.
